@@ -3,26 +3,24 @@ group,name,radius
 1,Enjoy writing,90
 1,Enjoy problem solving,90
 1,Enjoy exploring connections between disciplines,90
-1,Enjoy graphic design,90
 1,Love color,90
 1,Love working with people from a variety of cultures,90
 1,Love to dive deep into a project,90
 1,Enjoy working with people,90
-2,FavJob - International setting,90
-2,FavJob - Creative technical setting,90
-2,FavJob - Where you can swim at lunch,90
-2,FavJob. Where your coworkers make the job great.,90
-3,BadJob. Assembly line.Overly monitored. Harassment.,90
-3,BadJob - Toxic hierarchy. Lack of advancement.,90
-4,American University of Paris Technical Writing Studies,90
-4,UCSB BA French Lit - Project tech translation,90
-4,Institut des Etudes Francaises à (France),90
-4,Cal Poly SLO,90
-5,FrontEnd HTML,90
-6,FullStack,120
-7,DataScience,120
-8,DevOps,150
-9,CloudComputing,120
-10,Languages,90
-11,Interests Music Origami Drawing Biking Graphic Design,90
-12,HouseConcerts Community Gathering Synergy,90
+2,FavJob :: International setting : Technical & Creative : Swim at lunch : Great Coworkers,90
+3,BadJob :: Toxic hierarchy : Lack of advancement : Assembly line :Overly monitored : Harassment,120
+4,SCHOOL :: American University of Paris Technical Writing Studies,90
+4,SCHOOL :: UCSB BA French Lit - Project tech translation,90
+4,SCHOOL :: Institut des Etudes Francaises à (France),90
+4,SCHOOL :: Cal Poly SLO,90
+5,FrontEnd :: HTML : Javascript : React : CSS,90
+6,FullStack :: Python App : PosgreSQL : SQLAlchemy : Heroku : AuthO ,120
+7,DataScience :: Python : Jupyter : Conda : Pandas : SciKitLearn : Matplotlib,120
+8,DevOps :: Git : Github Actions : Docker : Kubernetes : GitHubActions : Configuration Management with Puppet : GitOps(Argo CD) : DockerHub,150
+9,CloudComputing :: Azure Services : Azure Functions :: Google Cloud Platform :: AWS :: Cloud Native : gRPC : Kafka : Grafana : Prometheus : Jaeger : YAML Manifests : Vagrant : Argo CD ,150
+10,Languages :: French : Spanish,90
+11,Interests :: Music : Origami : Drawing : Biking : Graphic Design : D3.js,90
+12,HouseConcerts :: Community : Gathering : Synergy : LiveStreaming : Video production : Organizing : Promoting : Celebrating : Ambiance,120
+13,Machine Learning :: AWS ML Sagemaker : XGBoost for Linear Regression & Natural Language Processing,90
+14,Graphic Design:: Photoshop : Illustrator : InDesign,90
+15,OTHER :: BASH : CLI : Linux : Regex : vi,90
