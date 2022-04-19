@@ -1,5 +1,5 @@
-var width = 2000,
-  height = 2000,
+var width = 1500,
+  height = 1500,
   padding = 1.5, // separation between same-color nodes
   clusterPadding = 20, // separation between different-color nodes
   maxRadius = 100;
@@ -10,6 +10,7 @@ minRadius = 10;
 const svg = d3
   .select("#chart")
   .append("svg")
+  .attr("height", `100%`)
   .attr("viewBox", `0 0 ${width} ${height}`)
 ;
 
